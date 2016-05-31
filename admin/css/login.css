@@ -1,0 +1,33 @@
+#bootstrap-overrides-body {
+  font: 100% "Eras Light ITC", sans-serif;
+  background-color: #155db3;
+  font-size: 12px; }
+
+#bootstrap-overrides-panel {
+  border-color: white;
+  border-radius: 0px;
+  border: 0px; }
+
+#bootstrap-overrides-panel-heading {
+  background-color: #9dbbdf;
+  background: #9dbbdf;
+  color: #155db3;
+  font-size: 14px;
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px; }
+
+.form-group #bootstrap-overrides-label {
+  color: #3a495a; }
+.form-group #bootstrap-overrides-form-control {
+  border: 1px solid #9dbbdf;
+  background-color: white !important; }
+
+#bootstrap-overrides-btn {
+  border: none;
+  border-radius: none;
+  width: 100%;
+  color: white;
+  background-color: #155db3;
+  border-radius: 0px; }
+
+/*# sourceMappingURL=login.css.map */
