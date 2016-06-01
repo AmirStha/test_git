@@ -7,6 +7,7 @@
 <?php }}?>
             <div class="container">
                 <ul class="nav navbar-nav">
+                    <li><a href="#">Contact</a></li>
                     <?php nav_main($dbc, $pageid)
  ?>
                     
@@ -15,7 +16,6 @@
                     <li<?php if($pageid == 2){echo ' class="active"';} ?>><a href="?page=2">About Us</a></li>
 -->
                     <li><a href="#">FAQ</a></li>
-                    <li><a href="#">Contact</a></li>
                 </ul>
             </div>    
         </nav><!-- END nav Main Navigation-->
