@@ -22,6 +22,7 @@
             </div>
 
                <!--element1 area-->
+            <p>We are learning merging in git > lets see how this goes. I am not sure that we will get enough practise with this so thet we can be least good at using git. After git we are going through node once again WHAT A SHAME</p>
  <?php home_page($dbc,"element1")?>
  <?php home_page($dbc,"element2")?>
             
